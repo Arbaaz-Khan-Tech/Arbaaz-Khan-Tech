@@ -22,10 +22,7 @@ Welcome to my GitHub profile! I’m a passionate **Cybersecurity Enthusiast** an
 - Build impactful tools for the cybersecurity community.  
 - Contribute to open-source projects related to web development and cybersecurity.  
 
-## 📫 Let’s Connect!  
-- **GitHub**: [https://github.com/Arbaaz-Khan-Tech]  
-- **LinkedIn**: [https://www.linkedin.com/in/arbaaz-khan-tech]
-- **Portfolio**: [https://www.arbaaz.xyz]
+
 
 ---
 
